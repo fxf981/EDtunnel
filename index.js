@@ -1,4 +1,4 @@
-// EDtunnel - A Cloudflare Worker-based VLESS Proxy with WebSocket Transport
+// EDtunnel - A Cloudflare Worker-based VLESS Proxy with WebSocket Transport 0
 // @ts-ignore
 import { connect } from 'cloudflare:sockets';
 
